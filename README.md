@@ -1,4 +1,4 @@
-#"Shopping Trends SQL Practice" 
+# Shopping Trends SQL Practice
 
 ## Dataset
 Dataset sourced from Kaggle: https://www.kaggle.com/datasets/minahilfatima12328/consumer-shopping-trends-analysis
